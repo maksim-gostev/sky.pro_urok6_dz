@@ -1,0 +1,16 @@
+family: семья
+hand: рука
+people: люди
+evening: вечер
+minute: минута
+believe: верить
+feel: чувствовать
+make: делать
+open: открывать
+think: думать
+rural: деревенский
+fortune: удача
+exercise: упражнение
+suggest: предлагать
+except: кроме
+word: слово
